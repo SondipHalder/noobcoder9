@@ -102,3 +102,6 @@ footer p{
 footer p span{
     color:orange;
 }
+.sh{
+    box-shadow: 7px 6px 29px -6px rgba(99,188,252,0.74);
+}
